@@ -42,9 +42,10 @@
   <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" width="50"/>
   <img src="https://avatars.githubusercontent.com/u/43926448?s=200&v=4" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="50"/>
+<p>
   
+<br />
   
-  
-  <div>
+  <div align="center">
     <img src="https://gpvc.arturio.dev/bkleck" alt="Profile views"/>
   </div>
