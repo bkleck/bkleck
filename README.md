@@ -41,7 +41,6 @@
   <img src="https://static.wixstatic.com/media/91c550_bf9afe8aa7dd463891bd08edcbc42191~mv2.png/v1/fill/w_512,h_512,al_c/91c550_bf9afe8aa7dd463891bd08edcbc42191~mv2.png" width="50"/>
   <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" width="50"/>
   <img src="https://avatars.githubusercontent.com/u/43926448?s=200&v=4" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="50"/>
 <p>
   
 <br />
