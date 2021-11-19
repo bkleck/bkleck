@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  
+  <div>
+    <img src="https://gpvc.arturio.dev/bkleck" alt="Profile views"/>
+  </div>
+  
+  <br />
+  
+  [![BK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkleck&count_private=true&show_icons=true&theme=noctis_minimus&title_color=000000&text_color=000000&icon_color=000000&bg_color=45,b3b3b3,ffffff&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkleck&langs_count=10&layout=compact&theme=noctis_minimus&title_color=000000&text_color=000000&icon_color=000000&bg_color=45,b3b3b3,ffffff&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-<!--
-**bkleck/bkleck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
