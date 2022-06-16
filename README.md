@@ -26,19 +26,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50"/>
   <img src="https://user-images.githubusercontent.com/77097236/173807238-591f803e-def5-4df0-8f3b-667645370364.png" width="50"/>
-  <img src="https://user-images.githubusercontent.com/77097236/173807026-bd1b20d1-0155-4492-a5f8-e7b11e4b71b7.png" width="50"/>
-  <img src="https://user-images.githubusercontent.com/77097236/173808136-c40aaae8-0be9-4ddf-a77f-bb4d4671579a.png" width="50"/>
+  <img src="https://user-images.githubusercontent.com/77097236/173810416-ca8c5737-6de8-4f2c-bdab-357ddfbbc9f5.png" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="50"/>
   <img src="https://user-images.githubusercontent.com/77097236/173810132-261b19be-60b8-4e05-a2e7-3c1bc47916d6.png" width="50"/>
   <img src="https://user-images.githubusercontent.com/77097236/173809861-ed5d75b2-3070-4869-b818-78fd35230539.png" width="50"/>
-  <img src="https://user-images.githubusercontent.com/77097236/173810416-ca8c5737-6de8-4f2c-bdab-357ddfbbc9f5.png" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" width="50"/>
+  <img src="https://user-images.githubusercontent.com/77097236/173807026-bd1b20d1-0155-4492-a5f8-e7b11e4b71b7.png" width="50"/>
+  <img src="https://user-images.githubusercontent.com/77097236/173808136-c40aaae8-0be9-4ddf-a77f-bb4d4671579a.png" width="50"/>
+  <img src="https://user-images.githubusercontent.com/77097236/173977081-d9a05ff3-3248-4c0e-9197-85c20ffaf013.png" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50"/>
+  <img src="https://user-images.githubusercontent.com/77097236/173976503-4b348372-2690-4bf6-a72c-ba6da3c358d4.png" width="50"/>
 <p>
-
-
 
 
 
